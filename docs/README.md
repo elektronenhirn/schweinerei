@@ -17,7 +17,7 @@ Welche Figur fällt immer wieder durch Tolpatschigkeit auf?
 | Pedro Pony | 4 |
 | Zeo Zebra | 7 |
 | Luzie Löffel | 1 |
-| Opi Mümmel | 0 |
+| Mia Mietze | 0 |
 
 ## Rätsel B
 
@@ -41,3 +41,12 @@ Wie heisst die Kindergärtnerin?
 | Madame Gazelle | 5 |
 | Emily Elephant | 6 |
 
+## Hinweise
+
+Kein Peppa Experte?
+
+[Zusätzlicher Hinweis Rätsel](Hint0.md)
+
+Du bist an den Koordinaten aber findest nichts?
+
+[Zusätzlicher Hinweis Finale](Hint1.md)
